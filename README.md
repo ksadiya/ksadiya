@@ -184,7 +184,7 @@ while True:
 
 ## 🌱 Currently Learning
 
-`Blockchain Fundamentals` • `Web3` • `JavaScript` • `Java` • `Python` • `Git & GitHub`
+`Blockchain Fundamentals` • `Web3` • `JavaScript` • `c++` • `Python` • `Git & GitHub`
 
 ---
 
